@@ -71,4 +71,4 @@ If you would like to contribute to this project, please follow our [Contributing
 
 ## License
 
-This project is licensed under the [MIT License] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [GNU General Public License v3.0] - see the [LICENSE](LICENSE) file for details.
