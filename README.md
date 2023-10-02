@@ -1,6 +1,3 @@
-# TechNATA-2023
-Certainly, here's the README in Markdown format:
-
 # Emissions Tracking Project
 
 This repository contains the code and resources for a proof of concept (PoC) project focused on emissions tracking, including real-time data collection using websockets and analysis.
