@@ -71,7 +71,4 @@ If you would like to contribute to this project, please follow our [Contributing
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-You can copy and paste this Markdown code into your README.md file on GitHub and replace the placeholders with your project-specific information.
+This project is licensed under the [MIT License] - see the [LICENSE](LICENSE) file for details.
