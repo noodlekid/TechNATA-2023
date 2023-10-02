@@ -27,7 +27,7 @@ This project aims to demonstrate the feasibility of real-time emissions tracking
 
 Before running the project, ensure you have the following prerequisites installed:
 
-- Python (version X.X.X)
+- Python (version 3.11)
 - [Additional Dependencies]
 
 ### Installation
@@ -35,7 +35,7 @@ Before running the project, ensure you have the following prerequisites installe
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/emissions-tracking-project.git
+   git clone https://github.com/Git-HubMat/TechNATA-2023
    ```
 
 2. Navigate to the project directory:
